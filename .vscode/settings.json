@@ -1,5 +1,5 @@
 {
-  "python.pythonPath": "/Users/farleykr/Projects/Python/django_env/bin/python",
+  "python.pythonPath": "/home/farleykr/.local/share/virtualenvs/yearofthepython-9isig356/bin/python",
   "editor.detectIndentation": false,
   "editor.tabSize": 4
 }

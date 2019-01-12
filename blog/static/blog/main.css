@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
 body {
     background: #fafafa;
     color: #333333;
-    margin-top: 5rem;
+    margin-top: 1.4rem;
   }
   
   h1, h2, h3, h4, h5, h6 {
@@ -11,17 +13,29 @@ body {
   ul {
     margin: 0;
   }
-  
-  .bg-steel {
-    background-color: #5f788a;
+
+  .jumbotron {
+    background-color: #306998;
+  }
+
+  .jumbotron h1 {
+    color: #FFE873;
+    font-family: 'Permanent Marker', cursive;
+  }
+
+  .jumbotron p {
+      color: #fff;
+      font-style: italic;
+  }
+
+  .nav-link {
+    color: #fff;
+    text-decoration: underline;
   }
   
-  .site-header .navbar-nav .nav-link {
-    color: #cbd5db;
-  }
-  
-  .site-header .navbar-nav .nav-link:hover {
-    color: #ffffff;
+  .nav-link:hover {
+    color: #fff;
+    text-decoration: underline;
   }
   
   .site-header .navbar-nav .nav-link.active {

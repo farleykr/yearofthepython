@@ -1,1 +1,5 @@
+# virtual environments excluded from git
 /venv/
+
+Pipfile
+Pipfile.lock
